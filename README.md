@@ -7,7 +7,7 @@
 <p> I regularly use several languages like Java, Python3, Kotlin, Javascript and PHP. <br>
   I am particularly committed to mobile development for the Android platform. </p>
 
-🔭 <h4> Projects </h4>
+ <h4> 🔭 Projects </h4>
   <ul>
     <li>
       I am currently working on several small mobile apps that you can find on this GitHub.
@@ -16,14 +16,14 @@
       I am also working on my greatest <strong> Soundbox France </strong> app, which has been available on the Google Play Store for 3 years now.
     </li>
     <li>
-      I am also creating the website <a> href="okariastudio.fr" okariastudio.fr </a> with Bootstrap 
+      I am also creating the website <a href="okariastudio.fr"> okariastudio.fr </a> with Bootstrap 
     </li>
   </ul>
   
-  :email: <h4> Contact me </h4>
+   <h4> :email: Contact me </h4>
   <ul>
     <li>
-      Mail : <a> href="mailto:gurwan@okariastudio.fr" gurwan@okariastudio.fr </a>
+      Mail : <a href="mailto:gurwan@okariastudio.fr" > gurwan@okariastudio.fr </a>
   </ul>
   
 
