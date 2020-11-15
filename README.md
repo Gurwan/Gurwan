@@ -5,7 +5,7 @@
 <p> I am French :fr: and I wish to do great things in my life. 
   
 <p> I regularly use several languages like Java, Python3, Kotlin, Javascript and PHP. <br>
-  I am particularly committed to mobile development for the Android platform. </p>
+  I am particularly interested to mobile development for the Android platform. </p>
 
  <h4> 🔭 Projects </h4>
   <ul>
