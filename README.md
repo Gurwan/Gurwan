@@ -16,7 +16,7 @@
       I am also working on my greatest <strong> Soundbox France </strong> app, which has been available on the Google Play Store for 3 years now.
     </li>
     <li>
-      I am also creating the website <a href="okariastudio.fr"> okariastudio.fr </a> with Bootstrap 
+      I am also creating the website <a href="www.okariastudio.fr"> okariastudio.fr </a> with Bootstrap 
     </li>
   </ul>
   
