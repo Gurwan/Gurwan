@@ -23,7 +23,7 @@
    <h4> :email: Contact me </h4>
   <ul>
     <li>
-      Mail : <a href="mailto:gurwan@okariastudio.fr" > gurwan@okariastudio.fr </a>
+      Mail : <a href="mailto:gurwandelaunay35@gmail.fr" > gurwandelaunay35@gmail.fr </a>
   </ul>
   
 
