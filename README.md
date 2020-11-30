@@ -10,7 +10,7 @@
  <h4> 🔭 Projects </h4>
   <ul>
     <li>
-      I am currently working on web app using the framework Symphony
+      I am currently working on web app using the framework Symfony
     </li>
     <li>
       I am also working on my greatest <strong> Soundbox France </strong> app, which has been available on the Google Play Store for 3 years now.
