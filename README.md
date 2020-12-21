@@ -20,7 +20,7 @@
    <h4> :email: Contact me </h4>
   <ul>
     <li>
-      Mail : <a href="mailto:gurwandelaunay35@gmail.fr" > gurwandelaunay35@gmail.fr </a>
+      Mail : <a href="mailto:gurwandelaunay35@gmail.com" > gurwandelaunay35@gmail.com </a>
   </ul>
   
 
