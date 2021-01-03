@@ -23,7 +23,7 @@
       Mail : <a href="mailto:gurwandelaunay35@gmail.com" > gurwandelaunay35@gmail.com </a>
     </li>
     <li>
-       Mail : <a href="gurwan.com" > My website </a>
+       My website : <a href="gurwan.com" > gurwan.com </a>
     </li>
   </ul>
   
