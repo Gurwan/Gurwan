@@ -4,16 +4,16 @@
 
 <p> I am French :fr: and I wish to do great things in my life. 
   
-<p> I regularly use several languages such as Java, Python, Kotlin, Javascript and PHP. <br>
+<p> I regularly use several languages such as Java, Python, Kotlin, Javascript, C++ and PHP. <br>
   I am particularly interested to mobile development for the Android platform. </p>
 
  <h4> 🔭 Projects </h4>
   <ul>
     <li>
-      I am currently working on web app using the library ReactJS
+      I am currently working on web app using the library ReactJS : KnowYourWorld
     </li>
     <li>
-      I am also working on my greatest <strong> Soundbox France </strong> app, which has been available on the Google Play Store for 3 years now.
+      I am also working on my web app developed with Symfony : Roazhon Stats
     </li>
   </ul>
   
