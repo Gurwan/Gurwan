@@ -1,6 +1,6 @@
 <h3> Hi there, my name is Gurwan, nice to meet you on my profile 👋 </h3>
 
-<p> In short, I am a computer science student at the IUT of Vannes :mortar_board: in Brittany. </p>
+<p> In short, I am a computer science student at the ENSSAT engineering school in Lannion :mortar_board: in Brittany. </p>
 
 <p> I am French :fr: and I wish to do great things in my life. 
   
@@ -10,10 +10,7 @@
  <h4> 🔭 Projects </h4>
   <ul>
     <li>
-      I am currently working on web app using the library ReactJS : KnowYourWorld
-    </li>
-    <li>
-      I am also working on my web app developed with Symfony : Roazhon Stats
+      I am currently working in freelance next to my studies
     </li>
   </ul>
   
