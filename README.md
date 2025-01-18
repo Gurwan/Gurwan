@@ -2,7 +2,7 @@
 
 <p> In short, I am a computer science engineer :mortar_board: in Brittany. </p>
   
-<p> I regularly use several languages such as Java, Python, Typescript, Swift, C++ and PHP. <br></p>
+<p> I regularly use several languages such as Java, Python, Typescript, Swift, C#, Kotlin and PHP. <br></p>
   
    <h4> :email: Contact me </h4>
   <ul>
